@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cla-brothers/static/css/main.e9983501.css",
+    "main.js": "/cla-brothers/static/js/main.3f857738.js",
+    "static/js/453.2a259c71.chunk.js": "/cla-brothers/static/js/453.2a259c71.chunk.js",
+    "index.html": "/cla-brothers/index.html",
+    "main.e9983501.css.map": "/cla-brothers/static/css/main.e9983501.css.map",
+    "main.3f857738.js.map": "/cla-brothers/static/js/main.3f857738.js.map",
+    "453.2a259c71.chunk.js.map": "/cla-brothers/static/js/453.2a259c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9983501.css",
+    "static/js/main.3f857738.js"
+  ]
+}

@@ -1,0 +1,33 @@
+/* Navbar Styles */
+.navbar {
+    background-color: #2b2b2b;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #444;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navbar ul {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar ul li a {
+    color: #ccc;
+    font-size: 16px;
+    transition: color 0.3s;
+  }
+  
+  .navbar ul li a:hover {
+    color: #ff4c4c;
+  }
+  

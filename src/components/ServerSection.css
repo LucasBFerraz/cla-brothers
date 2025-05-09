@@ -1,0 +1,13 @@
+/* Server Section Styles */
+.server {
+    padding: 60px 10px;
+    text-align: center;
+    background-color: #2b2b2b;
+  }
+  
+  .server p {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ff4c4c;
+  }
+  

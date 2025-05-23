@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Teko:wght@300..700&display=swap');
+
+/*Everything to do with the big ticker shit.*/
+.maps-ticker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../images/maps.png');
+    background-size: cover;
+    text-align: center;
+    height: 600px;
+}
+
+.maps-ticker h1 {
+    font-family: "Oswald";
+    color: white;
+    font-size: 75px;
+    letter-spacing: 12px;
+    padding-top: 250px;
+}
+
+/*Information and shit*/
+.maps-info {
+    background-color: #161616;
+    left: 0;
+    right: 0;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.maps-info h3 {
+    color: #ffffff;
+    font-family: "Oswald";
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.maps-info p {
+    color: #7c7c7c;
+    font-family: "Oswald";
+    text-align: center;
+    font-size: 25px;
+}

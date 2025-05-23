@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+/* Import Oswald font */
+
+.footer {
+  background-color: #2b2a2a;
+  /* Dark gray background */
+  text-align: center;
+  padding: 20px 0px 200px;
+  /* Padding top and bottom */
+  flex: 0;
+}
+
+.footer h1 {
+  color: white;
+  /* White text color */
+  font-family: "Oswald";
+  /* Use Oswald font */
+  font-size: 50px;
+  /* Adjust font size as needed */
+  margin-bottom: 10px;
+  /* Add some space below the heading */
+}
+
+.footer a {
+  font-size: 20px;
+  color: #7c7c7c;
+  /* Gray text color for links */
+  font-family: "Oswald";
+  /* Use Oswald font */
+  text-decoration: none;
+  margin: 0 10px;
+  /* Add some space between links */
+  transition: color 0.3s ease;
+  /* Smooth color transition on hover */
+}
+
+.footer a:hover {
+  color: white;
+  /* White text color on hover */
+}
+
+.footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20px;
+  background-image: url('../../images/footer.png');
+  background-size: cover;
+  text-align: center;
+  height: 220px;
+}

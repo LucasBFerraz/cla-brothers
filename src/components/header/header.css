@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+/*Everything do with the header.*/
+.header {
+  background-color: #161616;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.header a {
+  display: inline;
+  color: #7c7c7c;
+  font-family: "Oswald";
+  text-decoration: none;
+  font-size: 20px;
+  padding-left: 12px;
+  padding-right: 12px;
+  transition-duration: 0.5s;
+}
+.header a:hover {
+  color: white;
+}
+.header h1 {
+  display: inline;
+  color: white;
+  font-family: "Teko";
+  font-size: 55px;
+}
+.header #active {
+  color: white;
+}
